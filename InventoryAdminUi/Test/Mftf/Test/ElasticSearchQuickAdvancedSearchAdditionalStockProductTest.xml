@@ -17,7 +17,7 @@
             <group value="msi"/>
             <group value="multi_mode"/>
         </annotations>
-        
+
         <before>
             <!--Create Simple Products.-->
             <createData entity="SimpleSubCategory" stepKey="simpleCategory"/>

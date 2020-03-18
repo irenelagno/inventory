@@ -17,7 +17,7 @@
             <group value="msi"/>
             <group value="multi_mode"/>
         </annotations>
-        
+
         <before>
             <!-- Assign Main Website to Default Stock -->
             <actionGroup ref="LoginAsAdmin" stepKey="loginAsAdmin"/>
